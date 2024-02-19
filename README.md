@@ -32,3 +32,7 @@ components streamlit : --> https://components.streamlit.app
 
 ---
 
+### app.py
+<p align="center">
+    <img src="./gambar-petunjuk/ss_001.png" alt="001" style="display: block; margin: 0 auto;">
+</p>
